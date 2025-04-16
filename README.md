@@ -1,31 +1,54 @@
 # URUDANDAZA
 
-kora USSD ituma umuntu akurikirana urudandaza rwiwe. USSD iba ifise menu isa kuno:
+Kora USSD ituma umuntu akurikirana urudandaza rwiwe. USSD iba ifise menu isa kuno:
 
-1. kuraba ibidandazwa
-2. gushiramwo ikidandazwa
-3. guhanagura ikidandazwa
-4. guhindura ibiranga ikidandazwa
-5. kudandaza
-6. kuraba ivyadandajwe
-7. kuraba raporo
-0. Guhagarika
+1. Kuraba ibidandazwa  
+2. Gushiramwo ikidandazwa  
+3. Guhanagura ikidandazwa  
+4. Guhindura ibiranga ikidandazwa  
+5. Kudandaza  
+6. Kuraba ivyadandajwe  
+7. Kuraba raporo  
+0. Guhagarika  
 
-ikidandazwa kirangwa na
+**Fyonda 0 usubire ku ntango**
 
-    id
-    izina
-    igiciro
-    igitigiri
+## Ikidandazwa kirangwa na:
 
-Kirazira ko ikidandazwa kibamwo kabiri vyaba biciye mu kugishiramwo canke kugihindura izina.
-mu kudandaza dushiramwo
+- **id**  
+- **izina**  
+- **igiciro**  
+- **igitigiri**  
 
-    id
-    quantite
+**Kirazira** ko ikidandazwa kibamwo kabiri vyaba biciye mu kugishiramwo canke kugihindura izina.
 
-ivyadandajwe bisa uku:
+## Mu kudandaza dushiramwo:
 
+- **id**  
+- **quantite**  
+
+### Ivyadandajwe bisa uku:
+
+
+
+01/05 09h20 umunyu x 1 : 2 000  
+01/05 09h31 umuceri x 2 : 10 000  
+01/05 09h42 ibiharage x 2 : 8 000  
+Vyose hamwe : 20 000  
+
+**Fyonda 0 usubire ku ntango**
+
+## Mu kuvyereka umuntu abanza gutanga amatariki akeneye gutoramwo.  
+### Raporo isa uku:
+
+- Mumaze kudandaza incuro         **23**  
+- Mumaze kudandaza amahera   **942 000**  
+- Ibidandazwa vyaheze              **5**  
+- Ibidandazwa vyose hamwe         **20**  
+
+**Fyonda 0 usubire ku ntango**
+
+**Ivyakozwe vyose kirazira ko bitakara.**
 01/05 09h20 umunyu     x 1 :  2 000
 01/05 09h31 umuceri    x 2 : 10 000
 01/05 09h42 ibiharage  x 2 :  8 000
