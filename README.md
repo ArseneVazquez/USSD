@@ -54,16 +54,16 @@ Vyose hamwe : 20 000
 01/05 09h42 ibiharage  x 2 :  8 000
                vyose hamwe : 20 000
 
-fyonda 0 usubire ku ntango
+**Fyonda 0 usubire ku ntango**
 
-mu kuvyereka umuntu abanza gutanga amatariki akeneye gutoramwo
-Rapporo isa uku
+## Mu kuvyereka umuntu abanza gutanga amatariki akeneye gutoramwo.  
+### Raporo isa uku:
 
-Mumaze kudandaza incuro         23
-Mumaze kudandaza amahera   942 000
-ibidandazwa vyaheze              5
-Ibidandazwa vyose hamwe         20
+- **Mumaze kudandaza incuro**         **23**  
+- **Mumaze kudandaza amahera**   **942 000**  
+- **Ibidandazwa vyaheze**              **5**  
+- **Ibidandazwa vyose hamwe**         **20**  
 
-fyonda 0 usubire ku ntango
+**Fyonda 0 usubire ku ntango**
 
-ivyakozwe vyose kirazira ko bitakara
+**Ivyakozwe vyose kirazira ko bitakara.**
