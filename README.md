@@ -1,4 +1,4 @@
-URUDANDAZA
+# URUDANDAZA
 
 kora USSD ituma umuntu akurikirana urudandaza rwiwe. USSD iba ifise menu isa kuno:
 
