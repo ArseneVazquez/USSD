@@ -44,7 +44,9 @@ Vyose hamwe : 20 000
 - Mumaze kudandaza incuro         **23**  
 - Mumaze kudandaza amahera   **942 000**  
 - Ibidandazwa vyaheze              **5**  
-- Ibidandazwa vyose hamwe         **20**  
+- Ibidandazwa vyose hamwe         **20**
+
+  
 
 **Fyonda 0 usubire ku ntango**
 
@@ -55,21 +57,17 @@ Vyose hamwe : 20 000
                vyose hamwe : 20 000
 
                
-menu:
-  - "Fyonda 0 usubire ku ntango"
+**Fyonda 0 usubire ku ntango**
 
-instructions:
-  - "Mu kuvyereka umuntu abanza gutanga amatariki akeneye gutoramwo."
+## Mu kuvyereka umuntu abanza gutanga amatariki akeneye gutoramwo.  
+### Raporo isa uku:
 
-raporo:
-  - titre: "Raporo isa uku"
-  - details:
-      - mumaze_kudandaza_incuro: 23
-      - mumaze_kudandaza_amahera: "942 000"
-      - ibidandazwa_vyaheze: 5
-      - ibidandazwa_vyose_hamwe: 20
+- **Mumaze kudandaza incuro** : **23**  
+- **Mumaze kudandaza amahera** : **942 000**  
+- **Ibidandazwa vyaheze** : **5**  
+- **Ibidandazwa vyose hamwe** : **20**
 
-conclusion:
-  - "Fyonda 0 usubire ku ntango"
-  - "Ivyakozwe vyose kirazira ko bitakara."
+**Fyonda 0 usubire ku ntango**
+
+**Ivyakozwe vyose kirazira ko bitakara.**
 
